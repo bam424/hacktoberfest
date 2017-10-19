@@ -1052,3 +1052,8 @@ Noida
 - Place: Brisbane, Australia
 - Bio: Student studying LAw and IT. Currently working as a software engineer.
 - GitHub: [Atrolantra](https://github.com/Atrolantra)
+
+#### Name: [Brandon Mar](https://github.com/bam424)
+- Place: Seattle, Washington
+- Bio: Student making a contribution
+- GitHub: [bam424](https://github.com/bam424)
